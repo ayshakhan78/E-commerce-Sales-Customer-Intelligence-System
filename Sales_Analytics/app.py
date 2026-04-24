@@ -9,7 +9,7 @@ st.markdown("---")
 
 
 # Load data
-df = pd.read_csv("sales_data_sample.csv")
+df = pd.read_csv("Sales_Analytics/sales_data_sample.csv")
 # Dataset preview
 st.subheader("Dataset Preview")
 st.dataframe(df)
