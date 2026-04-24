@@ -7,7 +7,7 @@ This is an end-to-end data analytics project that analyzes sales data to extract
 ---
 
 ##  Live App
-👉 [https://your-app-name.streamlit.app](https://e-commerce-sales-customer-intelligence-system-wqc2qhn8rxwtpfnp.streamlit.app/)
+👉 (https://e-commerce-sales-customer-intelligence-system-wqc2qhn8rxwtpfnp.streamlit.app/)](https://e-commerce-sales-customer-intelligence-system-wqc2qhn8rxwtpfnp.streamlit.app/)
 
 ---
 
