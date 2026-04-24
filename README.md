@@ -41,27 +41,32 @@ https://e-commerce-sales-customer-intelligence-system-wqc2qhn8rxwtpfnp.streamlit
 ---
 
 ## Approach
+
 1️⃣ Data Cleaning
 Handled missing values
 Removed duplicate records
 Filtered negative quantities (returns)
 Fixed pricing anomalies
 Converted date columns
+
 2️⃣ Feature Engineering
 Created Revenue column
 Extracted Month & Year
 Built customer-level metrics
 Performed RFM (Recency, Frequency, Monetary) analysis
+
 3️⃣ Data Analysis (EDA)
 Sales trend over time
 Top-performing products
 Country-wise revenue
 Customer segmentation
+
 4️⃣ SQL Analysis
 Monthly revenue queries
 Top products & customers
 Repeat vs new customers
 Average order value
+
 5️⃣ Dashboard (Power BI)
 KPI cards (Revenue, Orders, Customers)
 Sales trend visualization
