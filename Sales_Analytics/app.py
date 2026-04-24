@@ -48,12 +48,6 @@ filtered_df["Month"] = pd.to_datetime(filtered_df["InvoiceDate"]).dt.to_period("
 sales_trend = filtered_df.groupby("Month")["Revenue"].sum()
 st.line_chart(sales_trend)
 
-st.subheader("🏆 Top Products")
-top_products = filtered_df.groupby("Description")["Revenue"].sum().sort_values(ascending=False).head(10)
-fig, ax = plt.subplots()
-ax.bar(top_products.index, top_products.values)
-plt.xticks(rotation=45)
-st.pyplot(fig)
 
 st.subheader("👥 Top Customers")
 top_customers = filtered_df.groupby("CustomerID")["Revenue"].sum().sort_values(ascending=False).head(10)
