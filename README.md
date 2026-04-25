@@ -1,4 +1,4 @@
-# E-commerce-Sales-Customer-Intelligence-System
+# E-commerce Sales & Customer Insights Dashboard
 
 
 ##  Overview
