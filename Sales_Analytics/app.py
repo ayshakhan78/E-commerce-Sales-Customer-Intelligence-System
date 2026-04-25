@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.title("📊 E-commerce Sales & Customer Intelligence System")
+st.title("📊 E-commerce Sales & Customer Insights Dashboard")
 st.caption("Interactive dashboard for business analysis")
 
 st.markdown("---")
