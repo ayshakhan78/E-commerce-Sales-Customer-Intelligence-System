@@ -17,8 +17,7 @@ This project aims to answer these questions using data-driven analysis.
 ---
 
 ##  Live App
-https://e-commerce-sales-customer-intelligence-system-wqc2qhn8rxwtpfnp.streamlit.app/
-
+https://e-commerce-sales-customer-insights-dashboard-ykpvwksxfzkodgxfh.streamlit.app/
 ---
 
 ##  Tools & Technologies
